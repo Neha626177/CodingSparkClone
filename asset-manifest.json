@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/myreactapp/static/css/main.f0c16dd2.css",
-    "main.js": "/myreactapp/static/js/main.f6642980.js",
-    "static/media/blog1.png": "/myreactapp/static/media/blog1.64323cf91fe9c0963650.png",
-    "static/media/sohit-img.png": "/myreactapp/static/media/sohit-img.f46fd4b496249403d11e.png",
-    "static/media/aum-img.png": "/myreactapp/static/media/aum-img.a94652a902eefb47a593.png",
-    "static/media/discount-bg.png": "/myreactapp/static/media/discount-bg.3ae41c1fcacc8b247b9a.png",
-    "static/media/team-2.jpg": "/myreactapp/static/media/team-2.2ccf2add63d9423eb868.jpg",
-    "static/media/amit-img.png": "/myreactapp/static/media/amit-img.9529c8c2f4f731148e86.png",
-    "static/media/landingPage.png": "/myreactapp/static/media/landingPage.e8bc370c72cd0b15eace.png",
-    "static/media/about.png": "/myreactapp/static/media/about.2110e4b11351975a2752.png",
-    "static/media/footer-bg.png": "/myreactapp/static/media/footer-bg.e6fe4753dfca2b6cc785.png",
-    "static/media/c++.png": "/myreactapp/static/media/c++.f0f1f4c94ed4db2d52fb.png",
-    "static/media/logo.png": "/myreactapp/static/media/logo.3708f16473a7a6c2fb2b.png",
-    "index.html": "/myreactapp/index.html",
-    "main.f0c16dd2.css.map": "/myreactapp/static/css/main.f0c16dd2.css.map",
-    "main.f6642980.js.map": "/myreactapp/static/js/main.f6642980.js.map"
+    "main.css": "/CodingSparkClone/static/css/main.c6735aad.css",
+    "main.js": "/CodingSparkClone/static/js/main.656a10ac.js",
+    "static/media/blog1.png": "/CodingSparkClone/static/media/blog1.64323cf91fe9c0963650.png",
+    "static/media/sohit-img.png": "/CodingSparkClone/static/media/sohit-img.f46fd4b496249403d11e.png",
+    "static/media/aum-img.png": "/CodingSparkClone/static/media/aum-img.a94652a902eefb47a593.png",
+    "static/media/discount-bg.png": "/CodingSparkClone/static/media/discount-bg.3ae41c1fcacc8b247b9a.png",
+    "static/media/team-2.jpg": "/CodingSparkClone/static/media/team-2.2ccf2add63d9423eb868.jpg",
+    "static/media/amit-img.png": "/CodingSparkClone/static/media/amit-img.9529c8c2f4f731148e86.png",
+    "static/media/landingPage.png": "/CodingSparkClone/static/media/landingPage.e8bc370c72cd0b15eace.png",
+    "static/media/about.png": "/CodingSparkClone/static/media/about.2110e4b11351975a2752.png",
+    "static/media/footer-bg.png": "/CodingSparkClone/static/media/footer-bg.e6fe4753dfca2b6cc785.png",
+    "static/media/c++.png": "/CodingSparkClone/static/media/c++.f0f1f4c94ed4db2d52fb.png",
+    "static/media/logo.png": "/CodingSparkClone/static/media/logo.3708f16473a7a6c2fb2b.png",
+    "index.html": "/CodingSparkClone/index.html",
+    "main.c6735aad.css.map": "/CodingSparkClone/static/css/main.c6735aad.css.map",
+    "main.656a10ac.js.map": "/CodingSparkClone/static/js/main.656a10ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0c16dd2.css",
-    "static/js/main.f6642980.js"
+    "static/css/main.c6735aad.css",
+    "static/js/main.656a10ac.js"
   ]
 }
