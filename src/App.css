@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app-con{
+  overflow: hidden;
+}
+.discount{
+  /* height: 500px; */
+  background-image: url(../src/assets/discount-bg.png);
+   background-position: 50%;
+  background-size: cover;
+background-repeat: no-repeat;
+    background-size: 800px 400px;
+  /* transform: scaleX(1); */
+}

@@ -1,0 +1,16 @@
+
+.outer-con{
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+.memCon::before{
+   contain: "";
+   position: absolute;
+   top: 0;
+   left: 4;
+   height: 100%;
+   width: 100%;
+   /* background-color: black; */
+   
+}

@@ -1,0 +1,16 @@
+.foot{
+    background-image: url(../assets//footer-bg.png);
+    background-position: 50%;
+  /* background-size: cover; */
+   background-repeat: no-repeat;
+  background-size: 600px 300px;
+  /* position: relative; */
+     /* background-color: #343148; */
+  /* box-shadow: 4px 4px ; */
+}
+.con{
+     background-color: hsl(248, 19%, 24%);
+     opacity: 0.9;
+     height: 100%;
+     /* position: absolute; */
+}
